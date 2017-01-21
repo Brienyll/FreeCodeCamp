@@ -1,2 +1,2 @@
 # FreeCodeCamp
-My free code camp solutions
+My Free Code Camp solutions
