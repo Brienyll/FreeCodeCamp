@@ -11,3 +11,4 @@ for (let property in canary) {
     ownProps.push(property);
   }
 }
+//name,numLegs
