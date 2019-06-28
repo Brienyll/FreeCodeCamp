@@ -1,8 +1,5 @@
 function nonMutatingPush(original, newItem) {
-  // Add your code below this line
-    return original.concat(newItem);  
-
-  // Add your code above this line
+    return original.concat(newItem);
 }
 var first = [1, 2, 3];
 var second = [4, 5];
