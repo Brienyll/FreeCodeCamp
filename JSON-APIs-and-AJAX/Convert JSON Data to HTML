@@ -1,10 +1,10 @@
-/*
-Now that we're getting data from a JSON API, let's display it in our HTML.
 
-We can use the .forEach() method to loop through our data and modify our HTML elements.
 
-First, let's declare an html variable with var html = "";.
-*/
+
+
+
+
+
 <script>
   $(document).ready(function() {
 
