@@ -1,4 +1,4 @@
-let huhText = "This sandwich is good.";
+let text = "This sandwich is good.";
 let fixRegex = /good/;
 let replaceText = "okey-dokey"; 
-let result = huhText.replace(fixRegex, replaceText);
+let result = text.replace(fixRegex, replaceText);
